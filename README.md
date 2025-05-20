@@ -42,7 +42,7 @@ Outside of coding, I like going to the gym, biking, running, and watching anime 
 
 ---
 
-### 🚀 What I’m Learning
+### 📚 What I’m Learning
 
 - New technologies and programming languages (want to learn RUST and maybe also go deeper into some JS frameworks)
 - How to write code that’s best practice
