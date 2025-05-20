@@ -56,6 +56,8 @@ Outside of coding, I like going to the gym, biking, running, and watching anime 
   <img src="https://github-readme-stats.vercel.app/api?username=jonzimmermann&show_icons=true&theme=github_dark&hide_title=true" />
 </p>
 
+---
+
 ### 📫 Reach Me      
 
 - **Email**: *jonzimi@icloud.com*
