@@ -60,3 +60,4 @@ Outside of coding, I like going to the gym, biking, running, and watching anime 
 
 - **Email**: *jonzimi@icloud.com*
 - **LinkedIn**: *Currently in progress*
+<br>
