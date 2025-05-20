@@ -9,7 +9,7 @@
 
 ### 👀 About Me
 
-I’m doing an apprenticeship in application development at Roche in Rotkreuz, Switzerland.  
+I’m doing an apprenticeship in application development at Roche in Rotkreuz, Switzerland alongside a vocational baccalaureate.  
 I mostly code in **C#** and build stuff using **ASP.NET**, **Blazor**, and **MySQL**.  
 Right now I’m working on a web app for **Zlv Mint** to support MINT apprenticeships.
 
