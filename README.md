@@ -53,7 +53,7 @@ Outside of coding, I like going to the gym, biking, running, and watching anime 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonzimmermann&show_icons=true&theme=github_dark&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jon-zimmermann&show_icons=true&theme=github_dark&hide_title=true" />
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=jon-zimmermann&theme=transparent&hide_border=true&border_radius=5&card_width=500" alt="GitHub Streak" />
   </a>
