@@ -11,7 +11,7 @@
 
 I’m doing an apprenticeship in application development at Roche in Rotkreuz, Switzerland alongside a vocational baccalaureate.  
 I mostly code in **C#** and build stuff using **ASP.NET**, **Blazor**, and **MySQL**.  
-Right now I’m working on a web app for **Zlv Mint** to support MINT apprenticeships.
+Right now I’m working on a web app for **Zlv Mint** to manage MINT apprenticeships.
 
 I’m curious by nature and always trying out new tools, frameworks, or languages, anything that helps me improve.  
 Outside of coding, I like going to the gym, biking, running, and watching anime like *Solo Leveling* or *The Beginning After the End*.
