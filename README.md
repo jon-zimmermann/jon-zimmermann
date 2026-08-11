@@ -24,7 +24,7 @@ When I'm not coding I'm at the gym, on my race bike, out running, watching anime
 I'm early in my career and don't claim to master any of these. I use all of them regularly, some better than others.
 
 <div align="center">
-<table>
+<table align="center">
 <tr>
 <td align="center" width="88"><img src="https://cdn.simpleicons.org/python/238636" width="32" height="32" alt="" /><br /><sub>Python</sub></td>
 <td align="center" width="88"><img src="https://cdn.simpleicons.org/typescript/238636" width="32" height="32" alt="" /><br /><sub>TypeScript</sub></td>
@@ -82,7 +82,7 @@ I'm early in my career and don't claim to master any of these. I use all of them
 ### Reach Me
 
 <div align="center">
-<table>
+<table align="center">
 <tr>
 <td align="center" width="150"><a href="https://jon-zimmermann.com"><img src="assets/website.svg" width="28" height="28" alt="Portfolio" /></a><br /><sub>jon-zimmermann.com</sub></td>
 <td align="center" width="150"><a href="mailto:me@jon-zimmermann.com"><img src="assets/email.svg" width="28" height="28" alt="Email" /></a><br /><sub>me@jon-zimmermann.com</sub></td>
