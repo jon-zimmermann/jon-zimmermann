@@ -56,7 +56,7 @@ I'm still early in my career and don't claim to master any of these. But I activ
 
 <p align="center">
   <a href="https://github.com/jon-zimmermann" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api?username=jon-zimmermann&show_icons=true&theme=github_dark&hide_title=true" alt="GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=jon-zimmermann&show_icons=true&theme=github_dark&hide_title=true" alt="GitHub Stats" />
   </a>
 </p>
 
@@ -68,7 +68,7 @@ I'm still early in my career and don't claim to master any of these. But I activ
 
 <p align="center">
   <a href="https://github.com/jon-zimmermann" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jon-zimmermann&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jon-zimmermann&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
