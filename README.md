@@ -81,6 +81,12 @@ I'm early in my career and don't claim to master any of these. I use all of them
 
 ### Reach Me
 
-- **Portfolio**: [jon-zimmermann.com](https://jon-zimmermann.com)
-- **Email**: me@jon-zimmermann.com
-- **LinkedIn**: [jon-zimmermann](https://www.linkedin.com/in/jon-zimmermann)
+<div align="center">
+<table>
+<tr>
+<td align="center" width="150"><a href="https://jon-zimmermann.com"><img src="assets/website.svg" width="28" height="28" alt="Portfolio" /></a><br /><sub>jon-zimmermann.com</sub></td>
+<td align="center" width="150"><a href="mailto:me@jon-zimmermann.com"><img src="assets/email.svg" width="28" height="28" alt="Email" /></a><br /><sub>me@jon-zimmermann.com</sub></td>
+<td align="center" width="150"><a href="https://www.linkedin.com/in/jon-zimmermann"><img src="assets/linkedin.svg" width="28" height="28" alt="LinkedIn" /></a><br /><sub>jon-zimmermann</sub></td>
+</tr>
+</table>
+</div>
