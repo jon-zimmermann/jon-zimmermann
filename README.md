@@ -28,7 +28,7 @@ I'm early in my career and don't claim to master any of these. I use all of them
 <tr>
 <td align="center" width="88"><img src="https://cdn.simpleicons.org/python/238636" width="32" height="32" alt="" /><br /><sub>Python</sub></td>
 <td align="center" width="88"><img src="https://cdn.simpleicons.org/typescript/238636" width="32" height="32" alt="" /><br /><sub>TypeScript</sub></td>
-<td align="center" width="88"><img src="assets/csharp.svg" width="32" height="32" alt="" /><br /><sub>C#</sub></td>
+<td align="center" width="88"><img src="csharp.svg" width="32" height="32" alt="" /><br /><sub>C#</sub></td>
 <td align="center" width="88"><img src="https://cdn.simpleicons.org/react/238636" width="32" height="32" alt="" /><br /><sub>React</sub></td>
 <td align="center" width="88"><img src="https://cdn.simpleicons.org/fastapi/238636" width="32" height="32" alt="" /><br /><sub>FastAPI</sub></td>
 <td align="center" width="88"><img src="https://cdn.simpleicons.org/dotnet/238636" width="32" height="32" alt="" /><br /><sub>.NET</sub></td>
