@@ -2,7 +2,7 @@
 <h3 align="center">Application Developer Apprentice from Switzerland 🇨🇭</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=58A6FF&width=450&lines=Learning+something+new+every+day;Building+things+and+breaking+them+too;Currently+deep+in+AI+agents;Always+curious+about+new+tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=238636&center=true&width=450&lines=apprentice+dev+at+Roche;eager+to+get+better;want+to+learn+with+me%3F" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,7 +13,7 @@ I'm doing my apprenticeship in application development at [Roche Diagnostics Int
 
 At work I'm currently part of a team building AI agents and pipelines with LangGraph and PydanticAI, mostly Python backend stuff with a React frontend on top.
 
-Outside of work I run a self-hosted homelab on my Synology NAS, build side projects, and try out whatever new tech catches my eye. Lately I've also been getting into cybersecurity and red teaming, breaking things is just as fun as building them.
+Outside of work I run a self-hosted homelab and build side projects. Breaking things turns out to be about as fun as building them.
 
 When I'm not coding I'm at the gym, on my race bike, out running, watching anime or skiing in winter.
 
@@ -21,32 +21,37 @@ When I'm not coding I'm at the gym, on my race bike, out running, watching anime
 
 ### Tech I Work With
 
-I'm still early in my career and don't claim to master any of these. But I actively work with them and am always learning more.
+I'm early in my career and don't claim to master any of these. I use all of them regularly, some better than others.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+<table>
+<tr>
+<td align="center" width="88"><img src="https://cdn.simpleicons.org/python/238636" width="32" height="32" alt="" /><br /><sub>Python</sub></td>
+<td align="center" width="88"><img src="https://cdn.simpleicons.org/typescript/238636" width="32" height="32" alt="" /><br /><sub>TypeScript</sub></td>
+<td align="center" width="88"><img src="assets/csharp.svg" width="32" height="32" alt="" /><br /><sub>C#</sub></td>
+<td align="center" width="88"><img src="https://cdn.simpleicons.org/react/238636" width="32" height="32" alt="" /><br /><sub>React</sub></td>
+<td align="center" width="88"><img src="https://cdn.simpleicons.org/fastapi/238636" width="32" height="32" alt="" /><br /><sub>FastAPI</sub></td>
+<td align="center" width="88"><img src="https://cdn.simpleicons.org/dotnet/238636" width="32" height="32" alt="" /><br /><sub>.NET</sub></td>
+<td align="center" width="88"><img src="https://cdn.simpleicons.org/blazor/238636" width="32" height="32" alt="" /><br /><sub>Blazor</sub></td>
+</tr>
+<tr>
+<td align="center" width="88"><img src="https://cdn.simpleicons.org/docker/238636" width="32" height="32" alt="" /><br /><sub>Docker</sub></td>
+<td align="center" width="88"><img src="https://cdn.simpleicons.org/linux/238636" width="32" height="32" alt="" /><br /><sub>Linux</sub></td>
+<td align="center" width="88"><img src="https://cdn.simpleicons.org/nginx/238636" width="32" height="32" alt="" /><br /><sub>nginx</sub></td>
+<td align="center" width="88"><img src="https://cdn.simpleicons.org/cloudflare/238636" width="32" height="32" alt="" /><br /><sub>Cloudflare</sub></td>
+<td align="center" width="88"><img src="https://cdn.simpleicons.org/mysql/238636" width="32" height="32" alt="" /><br /><sub>MySQL</sub></td>
+<td align="center" width="88"><img src="https://cdn.simpleicons.org/gitlab/238636" width="32" height="32" alt="" /><br /><sub>GitLab</sub></td>
+</tr>
+</table>
 </div>
 
 ---
 
 ### What I'm Up To
 
-- Building AI agent pipelines at work with LangGraph and PydanticAI
-- Running a Docker setup on my Synology NAS exposed via Cloudflare Tunnels
-- Slowly getting into cybersecurity and red teaming
-- Picking up Rust on the side
+- Running Docker on a Synology NAS, exposed through Cloudflare Tunnels
+- Slowly poking at cybersecurity and red teaming
+- Trying to learn Rust on the side
 
 ---
 
@@ -56,19 +61,19 @@ I'm still early in my career and don't claim to master any of these. But I activ
 
 <p align="center">
   <a href="https://github.com/jon-zimmermann" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-stats-extended.vercel.app/api?username=jon-zimmermann&show_icons=true&theme=github_dark&hide_title=true" alt="GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=jon-zimmermann&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=238636&text_color=238636&icon_color=238636" alt="GitHub Stats" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
-    <img src="https://streak-stats.demolab.com?user=jon-zimmermann&theme=transparent&hide_border=true&border_radius=5&card_width=500" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=jon-zimmermann&hide_border=true&border_radius=5&card_width=500&background=00000000&stroke=238636&ring=238636&fire=238636&currStreakNum=238636&currStreakLabel=238636&sideNums=238636&sideLabels=238636&dates=6e7681" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/jon-zimmermann" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jon-zimmermann&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jon-zimmermann&layout=compact&hide_border=true&bg_color=00000000&title_color=238636&text_color=238636" alt="Top Languages" />
   </a>
 </p>
 
@@ -79,4 +84,3 @@ I'm still early in my career and don't claim to master any of these. But I activ
 - **Portfolio**: [jon-zimmermann.com](https://jon-zimmermann.com)
 - **Email**: me@jon-zimmermann.com
 - **LinkedIn**: [jon-zimmermann](https://www.linkedin.com/in/jon-zimmermann)
-
